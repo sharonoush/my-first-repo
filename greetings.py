@@ -1,14 +1,14 @@
 def greet(name):
-    return f"Hello, {name}! Welcome to the lab."
+    return f"Hi {name}! Aloha in the lab!!"
 
 def farewell(name):
-    return f"Goodbye, {name}, see you next time!"
+    return f"Bye bye, {name}, see you next time!!!"
 
 def shout(name):
-    return f"HELLO {name.upper()}!!!"
+    return f"ALOHA {name.upper()}!!!"
 
 def thank_you(name):
-    return f"Thank you, {name}!"
+    return f"Thank you hehe, {name}!"
 
 if __name__ == "__main__":
     print(greet("World"))
