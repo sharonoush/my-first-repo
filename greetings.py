@@ -15,3 +15,6 @@ if __name__ == "__main__":
     print(farewell("World"))
     print(shout("World"))
     print(thank_you("World"))
+
+def goodnight(name):
+    return f"Good night, {name}!"
